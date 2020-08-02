@@ -1,6 +1,6 @@
-### Hi there, I'm Mithun 👋
+## Hi there, I'm Mithun 👋
 
-## More About Me!
+### More About Me!
 - 🔭 I’m currently working as Full Stack Engineer
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with different Programmers and Content Creators
