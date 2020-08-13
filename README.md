@@ -42,10 +42,6 @@
 <br />
 <br />
 
----
-
-<img align="left" alt="Mithun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=itsjustmithun&show_icons=true&hide_border=true" />
-
 [twitter]: https://twitter.com/itsjustmithun
 [youtube]: https://www.youtube.com/channel/UCd8NCapzo9qedlsQUU0r7Mg?view_as=subscriber
 [instagram]: https://instagram.com/itsjustmithun
