@@ -1,4 +1,4 @@
-## Hi there, I'm Mithun 👋
+## Hi there 👋
 
 ### More About Me!
 
