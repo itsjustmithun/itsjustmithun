@@ -5,8 +5,7 @@
 - 🔭 I’m currently working as Full Stack Engineer
 - 🌱 I’m currently learning everything I can 🤣
 - 👯 I’m looking to collaborate with different Programmers and Content Creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to go for long runs and play some games
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
