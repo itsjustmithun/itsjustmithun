@@ -3,9 +3,8 @@
 ### More About Me!
 
 - 🔭 I’m currently working as Full Stack Engineer
-- 🌱 I’m currently learning everything I can 🤣
-- 👯 I’m looking to collaborate with different Programmers and Content Creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 👯 I’m open to collaborate with different Programmers and Content Creators
+- 🥅 2021 Goals: Contribute more to Open Source 
 
 ### Connect with me:
 
