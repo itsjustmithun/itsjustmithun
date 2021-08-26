@@ -4,7 +4,6 @@
 
 - 🔭 I’m currently working as Full Stack Engineer
 - 👯 I’m open to collaborate with different Programmers and Content Creators
-- 🥅 2021 Goals: Contribute more to Open Source 
 
 ### Connect with me:
 
