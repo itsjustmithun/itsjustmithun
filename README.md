@@ -2,7 +2,7 @@
 
 ### More About Me!
 
-- 🔭 I’m currently working as Full Stack Engineer
+- 🔭 I’m currently working as Backend Engineer
 - 👯 I’m open to collaborate with different Programmers and Content Creators
 
 ### Connect with me:
