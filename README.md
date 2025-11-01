@@ -1,12 +1,6 @@
-## Hi there 👋
+![usesalt](https://github.com/user-attachments/assets/01e7c266-ca55-47cc-bf89-665871f12463)
 
-Currently building at the intersection of engineering and leadership — leading a team of 23+ engineers at Sky Germany.
-I just love building stuff - sometimes cool stuff, most times horrible ones 
+### Hi there 👋
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[x]: https://x.com/itsjustmithun
-[linkedin]: https://linkedin.com/in/itsjustmithun
-[reddit]: https://www.reddit.com/user/mit_since98
+Building at the intersection of engineering and leadership — 
+I love building stuff - sometimes cool, most times horrible ones
