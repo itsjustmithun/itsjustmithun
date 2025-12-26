@@ -1,6 +1,9 @@
-![usesalt](https://github.com/user-attachments/assets/01e7c266-ca55-47cc-bf89-665871f12463)
+### Hi, I'm Mithun!
 
-### Hi there 👋
+I lead engineering at Sky, building backend powering Sports, Entertainment and News across Europe. Corely working on distributed systems, Machine Learning and Partnership integrations with Netflix, DAZN, Disney+, DHL and more.
 
-Building at the intersection of engineering and leadership — 
-I love building stuff - sometimes cool, most times horrible ones
+Post work working on a new project, building ants on SALT (usesalt.co), AI powered cordination & orchestration system designed for enterprises to optimize AIOps flow.
+
+I just love building stuff - sometimes cool things but most times horrible ones.
+
+If you wanna build something or just wanna chat, reach me on x.com (itsjustmithun)
