@@ -9,7 +9,7 @@ Core focus: **Distributed systems**, **Machine Learning**, and partnership integ
 [![Disney+](https://img.shields.io/badge/Disney+-113CCF?style=flat&logo=disney&logoColor=white)](https://www.disneyplus.com/)
 [![DHL](https://img.shields.io/badge/DHL-FFCC00?style=flat&logo=dhl&logoColor=D40511)](https://www.dhl.com/)
 
-After work, building **[ants at salt](https://usesalt.co)** — an **AI-powered coordination & orchestration system**
+After work, building ants at **[SALT AI](https://usesalt.co)** — an **AI-powered coordination & orchestration system**
 
 I just love building stuff — sometimes cool, but most times horrible ones
 
