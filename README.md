@@ -10,4 +10,4 @@ Post work "was" herding very smart, slightly sarcastic ants at [usesalt.co](http
 
 Curious about behavioral simulation and AR — the blurry bit where digital stops feeling fake.
 
-[X](https://x.com/itsjustmithun) · [LinkedIn](https://www.linkedin.com/in/itsjustmithun/)
+[X](https://x.com/itsjustmithun) · [LinkedIn](https://www.linkedin.com/in/itsjustmithun/) · [Rant](https://mithun-org.vercel.app/)
